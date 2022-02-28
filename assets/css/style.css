@@ -5,6 +5,10 @@ body{
     color: #000000;
 }
 
+#leaderboard:hover{
+    cursor: pointer;
+}
+
 header {
     background-color: #218380;
     color:#ffffff;
@@ -33,6 +37,7 @@ header #time {
     padding: 12px 12px;
     border-radius: 8px;
     border: none;
+    cursor: pointer;
 }
 #btn2 {
     margin-left: 6px;
@@ -47,6 +52,7 @@ header #time {
     font-size: 20px;
     padding: 12px 12px;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 #ansBox{
